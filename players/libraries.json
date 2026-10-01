@@ -1,0 +1,14 @@
+{
+   "name": "Players Module",
+   "author": "BARDEN @ flowergardenstudios",
+   "version": "1.0.0",
+   "game_version": "26.2",
+   "libraries": [
+      {
+         "identifier": "id-system",
+         "source": "http://github.com/officialbarden/id-system",
+         "version": "1.0.1",
+         "game_version": "26.2"
+      }
+   ]
+}
